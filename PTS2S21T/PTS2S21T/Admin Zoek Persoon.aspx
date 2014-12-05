@@ -4,7 +4,8 @@
         <tr>
             <td>
                 <asp:TextBox ID="txtInvoer" runat="server" style="width: 150px; margin-left: 50px; margin-top: 50px;"></asp:TextBox><br />
-                A
+                <asp:Button ID="btnSearch" runat="server" Text="Search" style =" width: 100px; height: 25px; margin-left: 50px; margin-top: 15px; position: absolute;" />
+
             </td>
             <td>
                    &nbsp;&nbsp;
@@ -21,9 +22,5 @@
             </td>
             
         </tr>
-        <tr>
-            <asp:Button ID="btnZoek" runat="server" Text="Search" style =" width: 100px; height: 25px; margin-left: 50px; margin-top: 15px; position: absolute;" />
-        </tr>
-        
     </table>
 </asp:Content>
