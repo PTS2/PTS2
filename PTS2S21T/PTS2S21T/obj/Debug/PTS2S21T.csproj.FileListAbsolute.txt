@@ -49,3 +49,4 @@ C:\Users\pieter\Desktop\proftaak\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Secur
 C:\Users\pieter\Desktop\proftaak\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.csprojResolveAssemblyReference.cache
 C:\Users\pieter\Desktop\proftaak\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.dll
 C:\Users\pieter\Desktop\proftaak\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.pdb
+C:\Users\pieter\Desktop\proftaak\PTS2\PTS2S21T\PTS2S21T\bin\Oracle.DataAccess.dll

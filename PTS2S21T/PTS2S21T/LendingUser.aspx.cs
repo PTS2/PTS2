@@ -13,5 +13,10 @@ namespace PTS2S21T
         {
 
         }
+
+        protected void ListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
