@@ -158,10 +158,9 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-<<<<<<< HEAD
-=======
+
     <Content Include="LendUser.aspx" />
->>>>>>> origin/master
+
     <Content Include="Log out.aspx" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -292,8 +291,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-=======
+
     <Compile Include="LendUser.aspx.cs">
       <DependentUpon>LendUser.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -301,7 +299,7 @@
     <Compile Include="LendUser.aspx.designer.cs">
       <DependentUpon>LendUser.aspx</DependentUpon>
     </Compile>
->>>>>>> origin/master
+
     <Compile Include="Log out.aspx.cs">
       <DependentUpon>Log out.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
