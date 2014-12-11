@@ -13,5 +13,10 @@ namespace PTS2S21T
         {
 
         }
+
+        protected void btnSearch_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
