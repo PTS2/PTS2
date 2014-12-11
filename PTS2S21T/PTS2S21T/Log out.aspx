@@ -5,8 +5,8 @@
     </div><br />
     <div style="text-align: center; margin: auto;  margin-top:25px; position: absolute; width: 100%; height:34px; ">
         <div>
-        <asp:Button ID="ButtonYes" runat="server" Text="Yes" style ="text-align: center; width: 125px; position: absolute; "/>
-        <asp:Button ID="ButtonNo" runat="server" Text="No"  style ="width: 125px; text-align: center; position: absolute;"/>
-    </div>
+        <asp:Button ID="ButtonYes" runat="server" Text="Yes" style ="text-align: center; width: 125px; position: fixed; "/>
+        <asp:Button ID="ButtonNo" runat="server" Text="No"  style ="width: 125px; text-align: center; position: fixed;"/>
+        </div>
     </div>
 </asp:Content>
