@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Admin Zoek Persoon.aspx.cs" Inherits="PTS2S21T.Admin_Zoek_Persoon" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <table style =" width: 100%; height: 100%;%">
+    <table style =" width: 100%; height: 100%;">
         <tr>
             <td>
                 <asp:TextBox ID="txtInvoer" runat="server" style="width: 150px; margin-left: 50px; margin-top: 50px;"></asp:TextBox><br />
