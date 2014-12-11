@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Mark de Jong\Desktop\PTS2\PTS2S21T\PTS2S21T\bin\PTS2S21T.dll.config
 C:\Users\Mark de Jong\Desktop\PTS2\PTS2S21T\PTS2S21T\bin\PTS2S21T.dll
 C:\Users\Mark de Jong\Desktop\PTS2\PTS2S21T\PTS2S21T\bin\PTS2S21T.pdb
@@ -49,3 +50,56 @@ C:\Users\Mark de Jong\Desktop\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security
 C:\Users\Mark de Jong\Desktop\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.csprojResolveAssemblyReference.cache
 C:\Users\Mark de Jong\Desktop\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.dll
 C:\Users\Mark de Jong\Desktop\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.pdb
+=======
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\PTS2S21T.dll.config
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\PTS2S21T.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\PTS2S21T.pdb
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Antlr3.Runtime.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\EntityFramework.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\EntityFramework.SqlServer.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Newtonsoft.Json.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Owin.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\System.Web.Optimization.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\System.Web.Providers.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\WebGrease.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\System.Web.Optimization.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Antlr3.Runtime.pdb
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Newtonsoft.Json.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\EntityFramework.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\EntityFramework.SqlServer.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.csprojResolveAssemblyReference.cache
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.dll
+C:\Users\pieter\Documents\GitHub\PTS2\PTS2\PTS2S21T\PTS2S21T\obj\Debug\PTS2S21T.pdb
+>>>>>>> origin/master
